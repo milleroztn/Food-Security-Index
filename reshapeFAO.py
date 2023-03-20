@@ -212,17 +212,17 @@ del FS1, FS2, FS
 FAO_r = MK_r.join([CS_r, FDI_r, GT_r, QCL_r, TCL_r, FS_r]).sort_index()
 FAO_SSA = MK_SSA.join([CS_SSA, FDI_SSA, GT_SSA, QCL_SSA, TCL_SSA, FS_SSA]).sort_index()
 
-View(which_years(FAO_r))
-View(which_years(FAO_SSA))
+# View(which_years(FAO_r))
+# View(which_years(FAO_SSA))
 
 FAO_r.reset_index().to_csv("../data/FAO_r.csv", index=False)
 FAO_SSA.reset_index().to_csv("../data/FAO_SSA.csv", index=False)
 
-dfs = dict(MK_r=MK_r, CS_r=CS_r, FDI_r=FDI_r, GT_r=GT_r, QCL_r=QCL_r, TCL_r=TCL_r, FS_r=FS_r)
-
-for name, df in dfs.items():
-  print(name)
-  df.sort_index().reset_index().Area.drop_duplicates()
-  df.sort_index().reset_index().Area.drop_duplicates().count()
+# dfs = dict(MK_r=MK_r, CS_r=CS_r, FDI_r=FDI_r, GT_r=GT_r, QCL_r=QCL_r, TCL_r=TCL_r, FS_r=FS_r)
+# 
+# for name, df in dfs.items():
+#   print(name)
+#   df.sort_index().reset_index().Area.drop_duplicates()
+#   df.sort_index().reset_index().Area.drop_duplicates().count()
 
 # print(pd.DataFrame(faostat.get_areas('QCL').items()).sort_values(0).to_string())
