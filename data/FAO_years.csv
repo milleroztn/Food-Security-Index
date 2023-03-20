@@ -1,0 +1,955 @@
+Area,variable,min_year,max_year,missing_years
+Africa,Average dietary energy requirement (kcal/cap/day),2001,2020,0
+Africa,Average dietary energy supply adequacy (percent) (3-year average),2001,2020,0
+Africa,Average fat supply (g/cap/day) (3-year average),2001,2018,0
+Africa,Average protein supply (g/cap/day) (3-year average),2001,2018,0
+Africa,Average supply of protein of animal origin (g/cap/day) (3-year average),2001,2018,0
+Africa,Cereal import dependency ratio (percent) (3-year average),2001,2018,0
+Africa,Coefficient of variation of habitual caloric consumption distribution (real number),None,None,None
+Africa,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day) (3-year average),2001,2020,0
+Africa,Emissions (CH4),1990,2020,0
+Africa,Emissions (CO2),1990,2020,0
+Africa,Emissions (CO2eq) (AR5),1990,2020,0
+Africa,Emissions (N2O),1990,2020,0
+Africa,Export Value_Agricultural Products,1970,2020,0
+Africa,Export Value_Beverages,1970,2020,0
+Africa,Export Value_Cereals and Preparations,1970,2020,0
+Africa,Export Value_Dairy Products and Eggs,1970,2020,0
+Africa,Export Value_Fats and Oils (excluding Butter),1970,2020,0
+Africa,Export Value_Fruit and Vegetables,1970,2020,0
+Africa,Export Value_Live Animals,1970,2020,0
+Africa,Export Value_Meat and Meat Preparations,1970,2020,0
+Africa,Export Value_Non-food,1970,2020,0
+Africa,Export Value_Other food,1970,2020,0
+Africa,Export Value_Sugar and Honey,1970,2020,0
+Africa,Gross Domestic Product,1970,2020,0
+Africa,Gross Fixed Capital Formation,1970,2020,0
+Africa,"Gross Fixed Capital Formation (Agriculture, Forestry and Fishing)",1995,2020,0
+Africa,"Gross domestic product per capita, PPP, (constant 2017 international $)",2012,2020,0
+Africa,Import Value_Agricultural Products,1970,2020,0
+Africa,Import Value_Beverages,1970,2020,0
+Africa,Import Value_Cereals and Preparations,1970,2020,0
+Africa,Import Value_Dairy Products and Eggs,1970,2020,0
+Africa,Import Value_Fats and Oils (excluding Butter),1970,2020,0
+Africa,Import Value_Fruit and Vegetables,1970,2020,0
+Africa,Import Value_Live Animals,1970,2020,0
+Africa,Import Value_Meat and Meat Preparations,1970,2020,0
+Africa,Import Value_Non-food,1970,2020,0
+Africa,Import Value_Other food,1970,2020,0
+Africa,Import Value_Sugar and Honey,1970,2020,0
+Africa,Incidence of caloric losses at retail distribution level (percent),None,None,None
+Africa,Minimum dietary energy requirement  (kcal/cap/day),2001,2020,0
+Africa,Number of children under 5 years affected by wasting (million),2020,2020,0
+Africa,Number of children under 5 years of age who are overweight (modeled estimates) (million),2005,2020,4
+Africa,Number of children under 5 years of age who are stunted (modeled estimates) (million),2005,2020,4
+Africa,Number of moderately or severely food insecure female adults (million) (3-year average),2015,2020,0
+Africa,Number of moderately or severely food insecure female adults (million) (annual value),2014,2020,0
+Africa,Number of moderately or severely food insecure male adults (million) (3-year average),2015,2020,0
+Africa,Number of moderately or severely food insecure male adults (million) (annual value),2014,2020,0
+Africa,Number of moderately or severely food insecure people (million) (3-year average),2015,2020,0
+Africa,Number of moderately or severely food insecure people (million) (annual value),2014,2020,0
+Africa,Number of newborns with low birthweight (million),2001,2015,0
+Africa,Number of obese adults (18 years and older) (million),2001,2016,0
+Africa,Number of people undernourished (million) (3-year average),2001,2020,0
+Africa,Number of people undernourished (million) (annual value),2001,2020,0
+Africa,Number of severely food insecure female adults (million) (3-year average),2015,2020,0
+Africa,Number of severely food insecure female adults (million) (annual value),2014,2020,0
+Africa,Number of severely food insecure male adults (million) (3-year average),2015,2020,0
+Africa,Number of severely food insecure male adults (million) (annual value),2014,2020,0
+Africa,Number of severely food insecure people (million) (3-year average),2015,2020,0
+Africa,Number of severely food insecure people (million) (annual value),2014,2020,0
+Africa,Number of women of reproductive age (15-49 years) affected by anemia (million),2001,2019,0
+Africa,Per capita food production variability (constant 2014-2016 thousand int$ per capita),2001,2019,0
+Africa,Per capita food supply variability (kcal/cap/day),2001,2020,0
+Africa,Percent of arable land equipped for irrigation (percent) (3-year average),2001,2018,0
+Africa,Percentage of children under 5 years affected by wasting (percent),2020,2020,0
+Africa,Percentage of children under 5 years of age who are overweight (modelled estimates) (percent),2005,2020,4
+Africa,Percentage of children under 5 years of age who are stunted (modelled estimates) (percent),2005,2020,4
+Africa,Percentage of population using at least basic drinking water services (percent),None,None,None
+Africa,Percentage of population using at least basic sanitation services (percent),None,None,None
+Africa,Percentage of population using safely managed drinking water services (Percent),None,None,None
+Africa,Percentage of population using safely managed sanitation services (Percent),None,None,None
+Africa,Political stability and absence of violence/terrorism (index),None,None,None
+Africa,Prevalence of anemia among women of reproductive age (15-49 years),2001,2019,0
+Africa,Prevalence of exclusive breastfeeding among infants 0-5 months of age,2012,2020,7
+Africa,Prevalence of low birthweight (percent),2001,2015,0
+Africa,Prevalence of moderate or severe food insecurity in the female adult population (percent) (3-year average),2015,2020,0
+Africa,Prevalence of moderate or severe food insecurity in the female adult population (percent) (annual value),2014,2020,0
+Africa,Prevalence of moderate or severe food insecurity in the male adult population (percent) (3-year average),2015,2020,0
+Africa,Prevalence of moderate or severe food insecurity in the male adult population (percent) (annual value),2014,2020,0
+Africa,Prevalence of moderate or severe food insecurity in the total population (percent) (3-year average),2015,2020,0
+Africa,Prevalence of moderate or severe food insecurity in the total population (percent) (annual value),2014,2020,0
+Africa,Prevalence of obesity in the adult population (18 years and older),2001,2016,0
+Africa,Prevalence of severe food insecurity in the female adult population (percent) (3-year average),2015,2020,0
+Africa,Prevalence of severe food insecurity in the female adult population (percent) (annual value),2014,2020,0
+Africa,Prevalence of severe food insecurity in the male adult population (percent) (3-year average),2015,2020,0
+Africa,Prevalence of severe food insecurity in the male adult population (percent) (annual value),2014,2020,0
+Africa,Prevalence of severe food insecurity in the total population (percent) (3-year average),2015,2020,0
+Africa,Prevalence of severe food insecurity in the total population (percent) (annual value),2014,2020,0
+Africa,Prevalence of undernourishment (percent) (3-year average),2001,2020,0
+Africa,Prevalence of undernourishment (percent) (annual value),2001,2020,0
+Africa,Rail lines density (total route in km per 100 square km of land area),None,None,None
+Africa,"Share of dietary energy supply derived from cereals, roots and tubers (kcal/cap/day) (3-year average)",2001,2018,0
+Africa,Total FDI inflows,1990,2020,0
+Africa,Total FDI outflows,1990,2020,0
+Africa,Value of food imports in total merchandise exports (percent) (3-year average),2001,2019,0
+Africa,prod_Cereals,1970,2020,0
+Africa,prod_Eggs,1970,2020,0
+Africa,prod_Fibre,1991,2020,0
+Africa,prod_Fruit,1970,2020,0
+Africa,prod_Meat,1970,2020,0
+Africa,prod_Milk,1970,2020,0
+Africa,prod_Oilcrops,1970,2020,0
+Africa,prod_Pulses,1970,2020,0
+Africa,prod_Roots,1970,2020,0
+Africa,prod_Sugar,1970,2020,0
+Africa,prod_Treenuts,1970,2020,0
+Africa,prod_Vegetables,1970,2020,0
+Americas,Average dietary energy requirement (kcal/cap/day),None,None,None
+Americas,Average dietary energy supply adequacy (percent) (3-year average),None,None,None
+Americas,Average fat supply (g/cap/day) (3-year average),None,None,None
+Americas,Average protein supply (g/cap/day) (3-year average),None,None,None
+Americas,Average supply of protein of animal origin (g/cap/day) (3-year average),None,None,None
+Americas,Cereal import dependency ratio (percent) (3-year average),None,None,None
+Americas,Coefficient of variation of habitual caloric consumption distribution (real number),None,None,None
+Americas,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day) (3-year average),None,None,None
+Americas,Emissions (CH4),1990,2020,0
+Americas,Emissions (CO2),1990,2020,0
+Americas,Emissions (CO2eq) (AR5),1990,2020,0
+Americas,Emissions (N2O),1990,2020,0
+Americas,Export Value_Agricultural Products,1970,2020,0
+Americas,Export Value_Beverages,1970,2020,0
+Americas,Export Value_Cereals and Preparations,1970,2020,0
+Americas,Export Value_Dairy Products and Eggs,1970,2020,0
+Americas,Export Value_Fats and Oils (excluding Butter),1970,2020,0
+Americas,Export Value_Fruit and Vegetables,1970,2020,0
+Americas,Export Value_Live Animals,1970,2020,0
+Americas,Export Value_Meat and Meat Preparations,1970,2020,0
+Americas,Export Value_Non-food,1970,2020,0
+Americas,Export Value_Other food,1970,2020,0
+Americas,Export Value_Sugar and Honey,1970,2020,0
+Americas,Gross Domestic Product,1970,2020,0
+Americas,Gross Fixed Capital Formation,1970,2020,0
+Americas,"Gross Fixed Capital Formation (Agriculture, Forestry and Fishing)",1995,2020,0
+Americas,"Gross domestic product per capita, PPP, (constant 2017 international $)",None,None,None
+Americas,Import Value_Agricultural Products,1970,2020,0
+Americas,Import Value_Beverages,1970,2020,0
+Americas,Import Value_Cereals and Preparations,1970,2020,0
+Americas,Import Value_Dairy Products and Eggs,1970,2020,0
+Americas,Import Value_Fats and Oils (excluding Butter),1970,2020,0
+Americas,Import Value_Fruit and Vegetables,1970,2020,0
+Americas,Import Value_Live Animals,1970,2020,0
+Americas,Import Value_Meat and Meat Preparations,1970,2020,0
+Americas,Import Value_Non-food,1970,2020,0
+Americas,Import Value_Other food,1970,2020,0
+Americas,Import Value_Sugar and Honey,1970,2020,0
+Americas,Incidence of caloric losses at retail distribution level (percent),None,None,None
+Americas,Minimum dietary energy requirement  (kcal/cap/day),None,None,None
+Americas,Number of children under 5 years affected by wasting (million),None,None,None
+Americas,Number of children under 5 years of age who are overweight (modeled estimates) (million),None,None,None
+Americas,Number of children under 5 years of age who are stunted (modeled estimates) (million),None,None,None
+Americas,Number of moderately or severely food insecure female adults (million) (3-year average),None,None,None
+Americas,Number of moderately or severely food insecure female adults (million) (annual value),None,None,None
+Americas,Number of moderately or severely food insecure male adults (million) (3-year average),None,None,None
+Americas,Number of moderately or severely food insecure male adults (million) (annual value),None,None,None
+Americas,Number of moderately or severely food insecure people (million) (3-year average),None,None,None
+Americas,Number of moderately or severely food insecure people (million) (annual value),None,None,None
+Americas,Number of newborns with low birthweight (million),None,None,None
+Americas,Number of obese adults (18 years and older) (million),None,None,None
+Americas,Number of people undernourished (million) (3-year average),None,None,None
+Americas,Number of people undernourished (million) (annual value),None,None,None
+Americas,Number of severely food insecure female adults (million) (3-year average),None,None,None
+Americas,Number of severely food insecure female adults (million) (annual value),None,None,None
+Americas,Number of severely food insecure male adults (million) (3-year average),None,None,None
+Americas,Number of severely food insecure male adults (million) (annual value),None,None,None
+Americas,Number of severely food insecure people (million) (3-year average),None,None,None
+Americas,Number of severely food insecure people (million) (annual value),None,None,None
+Americas,Number of women of reproductive age (15-49 years) affected by anemia (million),None,None,None
+Americas,Per capita food production variability (constant 2014-2016 thousand int$ per capita),None,None,None
+Americas,Per capita food supply variability (kcal/cap/day),None,None,None
+Americas,Percent of arable land equipped for irrigation (percent) (3-year average),None,None,None
+Americas,Percentage of children under 5 years affected by wasting (percent),None,None,None
+Americas,Percentage of children under 5 years of age who are overweight (modelled estimates) (percent),None,None,None
+Americas,Percentage of children under 5 years of age who are stunted (modelled estimates) (percent),None,None,None
+Americas,Percentage of population using at least basic drinking water services (percent),None,None,None
+Americas,Percentage of population using at least basic sanitation services (percent),None,None,None
+Americas,Percentage of population using safely managed drinking water services (Percent),None,None,None
+Americas,Percentage of population using safely managed sanitation services (Percent),None,None,None
+Americas,Political stability and absence of violence/terrorism (index),None,None,None
+Americas,Prevalence of anemia among women of reproductive age (15-49 years),None,None,None
+Americas,Prevalence of exclusive breastfeeding among infants 0-5 months of age,None,None,None
+Americas,Prevalence of low birthweight (percent),None,None,None
+Americas,Prevalence of moderate or severe food insecurity in the female adult population (percent) (3-year average),None,None,None
+Americas,Prevalence of moderate or severe food insecurity in the female adult population (percent) (annual value),None,None,None
+Americas,Prevalence of moderate or severe food insecurity in the male adult population (percent) (3-year average),None,None,None
+Americas,Prevalence of moderate or severe food insecurity in the male adult population (percent) (annual value),None,None,None
+Americas,Prevalence of moderate or severe food insecurity in the total population (percent) (3-year average),None,None,None
+Americas,Prevalence of moderate or severe food insecurity in the total population (percent) (annual value),None,None,None
+Americas,Prevalence of obesity in the adult population (18 years and older),None,None,None
+Americas,Prevalence of severe food insecurity in the female adult population (percent) (3-year average),None,None,None
+Americas,Prevalence of severe food insecurity in the female adult population (percent) (annual value),None,None,None
+Americas,Prevalence of severe food insecurity in the male adult population (percent) (3-year average),None,None,None
+Americas,Prevalence of severe food insecurity in the male adult population (percent) (annual value),None,None,None
+Americas,Prevalence of severe food insecurity in the total population (percent) (3-year average),None,None,None
+Americas,Prevalence of severe food insecurity in the total population (percent) (annual value),None,None,None
+Americas,Prevalence of undernourishment (percent) (3-year average),None,None,None
+Americas,Prevalence of undernourishment (percent) (annual value),None,None,None
+Americas,Rail lines density (total route in km per 100 square km of land area),None,None,None
+Americas,"Share of dietary energy supply derived from cereals, roots and tubers (kcal/cap/day) (3-year average)",None,None,None
+Americas,Total FDI inflows,1990,2020,0
+Americas,Total FDI outflows,1990,2020,0
+Americas,Value of food imports in total merchandise exports (percent) (3-year average),None,None,None
+Americas,prod_Cereals,1970,2020,0
+Americas,prod_Eggs,1970,2020,0
+Americas,prod_Fibre,1991,2020,0
+Americas,prod_Fruit,1970,2020,0
+Americas,prod_Meat,1970,2020,0
+Americas,prod_Milk,1970,2020,0
+Americas,prod_Oilcrops,1970,2020,0
+Americas,prod_Pulses,1970,2020,0
+Americas,prod_Roots,1970,2020,0
+Americas,prod_Sugar,1970,2020,0
+Americas,prod_Treenuts,1970,2020,0
+Americas,prod_Vegetables,1970,2020,0
+Asia,Average dietary energy requirement (kcal/cap/day),2001,2020,0
+Asia,Average dietary energy supply adequacy (percent) (3-year average),2001,2020,0
+Asia,Average fat supply (g/cap/day) (3-year average),2001,2018,0
+Asia,Average protein supply (g/cap/day) (3-year average),2001,2018,0
+Asia,Average supply of protein of animal origin (g/cap/day) (3-year average),2001,2018,0
+Asia,Cereal import dependency ratio (percent) (3-year average),2001,2018,0
+Asia,Coefficient of variation of habitual caloric consumption distribution (real number),None,None,None
+Asia,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day) (3-year average),2001,2020,0
+Asia,Emissions (CH4),1990,2020,0
+Asia,Emissions (CO2),1990,2020,0
+Asia,Emissions (CO2eq) (AR5),1990,2020,0
+Asia,Emissions (N2O),1990,2020,0
+Asia,Export Value_Agricultural Products,1970,2020,0
+Asia,Export Value_Beverages,1970,2020,0
+Asia,Export Value_Cereals and Preparations,1970,2020,0
+Asia,Export Value_Dairy Products and Eggs,1970,2020,0
+Asia,Export Value_Fats and Oils (excluding Butter),1970,2020,0
+Asia,Export Value_Fruit and Vegetables,1970,2020,0
+Asia,Export Value_Live Animals,1970,2020,0
+Asia,Export Value_Meat and Meat Preparations,1970,2020,0
+Asia,Export Value_Non-food,1970,2020,0
+Asia,Export Value_Other food,1970,2020,0
+Asia,Export Value_Sugar and Honey,1970,2020,0
+Asia,Gross Domestic Product,1970,2020,0
+Asia,Gross Fixed Capital Formation,1970,2020,0
+Asia,"Gross Fixed Capital Formation (Agriculture, Forestry and Fishing)",1995,2020,0
+Asia,"Gross domestic product per capita, PPP, (constant 2017 international $)",2012,2020,0
+Asia,Import Value_Agricultural Products,1970,2020,0
+Asia,Import Value_Beverages,1970,2020,0
+Asia,Import Value_Cereals and Preparations,1970,2020,0
+Asia,Import Value_Dairy Products and Eggs,1970,2020,0
+Asia,Import Value_Fats and Oils (excluding Butter),1970,2020,0
+Asia,Import Value_Fruit and Vegetables,1970,2020,0
+Asia,Import Value_Live Animals,1970,2020,0
+Asia,Import Value_Meat and Meat Preparations,1970,2020,0
+Asia,Import Value_Non-food,1970,2020,0
+Asia,Import Value_Other food,1970,2020,0
+Asia,Import Value_Sugar and Honey,1970,2020,0
+Asia,Incidence of caloric losses at retail distribution level (percent),None,None,None
+Asia,Minimum dietary energy requirement  (kcal/cap/day),2001,2020,0
+Asia,Number of children under 5 years affected by wasting (million),2020,2020,0
+Asia,Number of children under 5 years of age who are overweight (modeled estimates) (million),2005,2020,4
+Asia,Number of children under 5 years of age who are stunted (modeled estimates) (million),2005,2020,4
+Asia,Number of moderately or severely food insecure female adults (million) (3-year average),2015,2020,0
+Asia,Number of moderately or severely food insecure female adults (million) (annual value),2014,2020,0
+Asia,Number of moderately or severely food insecure male adults (million) (3-year average),2015,2020,0
+Asia,Number of moderately or severely food insecure male adults (million) (annual value),2014,2020,0
+Asia,Number of moderately or severely food insecure people (million) (3-year average),2015,2020,0
+Asia,Number of moderately or severely food insecure people (million) (annual value),2014,2020,0
+Asia,Number of newborns with low birthweight (million),2001,2015,0
+Asia,Number of obese adults (18 years and older) (million),2001,2016,0
+Asia,Number of people undernourished (million) (3-year average),2001,2020,0
+Asia,Number of people undernourished (million) (annual value),2001,2020,0
+Asia,Number of severely food insecure female adults (million) (3-year average),2015,2020,0
+Asia,Number of severely food insecure female adults (million) (annual value),2014,2020,0
+Asia,Number of severely food insecure male adults (million) (3-year average),2015,2020,0
+Asia,Number of severely food insecure male adults (million) (annual value),2014,2020,0
+Asia,Number of severely food insecure people (million) (3-year average),2015,2020,0
+Asia,Number of severely food insecure people (million) (annual value),2014,2020,0
+Asia,Number of women of reproductive age (15-49 years) affected by anemia (million),2001,2019,0
+Asia,Per capita food production variability (constant 2014-2016 thousand int$ per capita),2001,2019,0
+Asia,Per capita food supply variability (kcal/cap/day),2001,2020,0
+Asia,Percent of arable land equipped for irrigation (percent) (3-year average),2001,2018,0
+Asia,Percentage of children under 5 years affected by wasting (percent),2020,2020,0
+Asia,Percentage of children under 5 years of age who are overweight (modelled estimates) (percent),2005,2020,4
+Asia,Percentage of children under 5 years of age who are stunted (modelled estimates) (percent),2005,2020,4
+Asia,Percentage of population using at least basic drinking water services (percent),2001,2020,0
+Asia,Percentage of population using at least basic sanitation services (percent),2001,2020,0
+Asia,Percentage of population using safely managed drinking water services (Percent),2001,2020,0
+Asia,Percentage of population using safely managed sanitation services (Percent),2001,2020,0
+Asia,Political stability and absence of violence/terrorism (index),None,None,None
+Asia,Prevalence of anemia among women of reproductive age (15-49 years),2001,2019,0
+Asia,Prevalence of exclusive breastfeeding among infants 0-5 months of age,2012,2020,7
+Asia,Prevalence of low birthweight (percent),2001,2015,0
+Asia,Prevalence of moderate or severe food insecurity in the female adult population (percent) (3-year average),2015,2020,0
+Asia,Prevalence of moderate or severe food insecurity in the female adult population (percent) (annual value),2014,2020,0
+Asia,Prevalence of moderate or severe food insecurity in the male adult population (percent) (3-year average),2015,2020,0
+Asia,Prevalence of moderate or severe food insecurity in the male adult population (percent) (annual value),2014,2020,0
+Asia,Prevalence of moderate or severe food insecurity in the total population (percent) (3-year average),2015,2020,0
+Asia,Prevalence of moderate or severe food insecurity in the total population (percent) (annual value),2014,2020,0
+Asia,Prevalence of obesity in the adult population (18 years and older),2001,2016,0
+Asia,Prevalence of severe food insecurity in the female adult population (percent) (3-year average),2015,2020,0
+Asia,Prevalence of severe food insecurity in the female adult population (percent) (annual value),2014,2020,0
+Asia,Prevalence of severe food insecurity in the male adult population (percent) (3-year average),2015,2020,0
+Asia,Prevalence of severe food insecurity in the male adult population (percent) (annual value),2014,2020,0
+Asia,Prevalence of severe food insecurity in the total population (percent) (3-year average),2015,2020,0
+Asia,Prevalence of severe food insecurity in the total population (percent) (annual value),2014,2020,0
+Asia,Prevalence of undernourishment (percent) (3-year average),2001,2020,0
+Asia,Prevalence of undernourishment (percent) (annual value),2001,2020,0
+Asia,Rail lines density (total route in km per 100 square km of land area),2001,2018,0
+Asia,"Share of dietary energy supply derived from cereals, roots and tubers (kcal/cap/day) (3-year average)",2001,2018,0
+Asia,Total FDI inflows,1990,2020,0
+Asia,Total FDI outflows,1990,2020,0
+Asia,Value of food imports in total merchandise exports (percent) (3-year average),2001,2019,0
+Asia,prod_Cereals,1970,2020,0
+Asia,prod_Eggs,1970,2020,0
+Asia,prod_Fibre,1991,2020,0
+Asia,prod_Fruit,1970,2020,0
+Asia,prod_Meat,1970,2020,0
+Asia,prod_Milk,1970,2020,0
+Asia,prod_Oilcrops,1970,2020,0
+Asia,prod_Pulses,1970,2020,0
+Asia,prod_Roots,1970,2020,0
+Asia,prod_Sugar,1970,2020,0
+Asia,prod_Treenuts,1970,2020,0
+Asia,prod_Vegetables,1970,2020,0
+Europe,Average dietary energy requirement (kcal/cap/day),2001,2020,0
+Europe,Average dietary energy supply adequacy (percent) (3-year average),2001,2020,0
+Europe,Average fat supply (g/cap/day) (3-year average),2001,2018,0
+Europe,Average protein supply (g/cap/day) (3-year average),2001,2018,0
+Europe,Average supply of protein of animal origin (g/cap/day) (3-year average),2001,2018,0
+Europe,Cereal import dependency ratio (percent) (3-year average),2001,2018,0
+Europe,Coefficient of variation of habitual caloric consumption distribution (real number),None,None,None
+Europe,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day) (3-year average),2001,2020,0
+Europe,Emissions (CH4),1990,2020,0
+Europe,Emissions (CO2),1990,2020,0
+Europe,Emissions (CO2eq) (AR5),1990,2020,0
+Europe,Emissions (N2O),1990,2020,0
+Europe,Export Value_Agricultural Products,1970,2020,0
+Europe,Export Value_Beverages,1970,2020,0
+Europe,Export Value_Cereals and Preparations,1970,2020,0
+Europe,Export Value_Dairy Products and Eggs,1970,2020,0
+Europe,Export Value_Fats and Oils (excluding Butter),1970,2020,0
+Europe,Export Value_Fruit and Vegetables,1970,2020,0
+Europe,Export Value_Live Animals,1970,2020,0
+Europe,Export Value_Meat and Meat Preparations,1970,2020,0
+Europe,Export Value_Non-food,1970,2020,0
+Europe,Export Value_Other food,1970,2020,0
+Europe,Export Value_Sugar and Honey,1970,2020,0
+Europe,Gross Domestic Product,1970,2020,0
+Europe,Gross Fixed Capital Formation,1970,2020,0
+Europe,"Gross Fixed Capital Formation (Agriculture, Forestry and Fishing)",1995,2020,0
+Europe,"Gross domestic product per capita, PPP, (constant 2017 international $)",2012,2020,0
+Europe,Import Value_Agricultural Products,1970,2020,0
+Europe,Import Value_Beverages,1970,2020,0
+Europe,Import Value_Cereals and Preparations,1970,2020,0
+Europe,Import Value_Dairy Products and Eggs,1970,2020,0
+Europe,Import Value_Fats and Oils (excluding Butter),1970,2020,0
+Europe,Import Value_Fruit and Vegetables,1970,2020,0
+Europe,Import Value_Live Animals,1970,2020,0
+Europe,Import Value_Meat and Meat Preparations,1970,2020,0
+Europe,Import Value_Non-food,1970,2020,0
+Europe,Import Value_Other food,1970,2020,0
+Europe,Import Value_Sugar and Honey,1970,2020,0
+Europe,Incidence of caloric losses at retail distribution level (percent),None,None,None
+Europe,Minimum dietary energy requirement  (kcal/cap/day),2001,2020,0
+Europe,Number of children under 5 years affected by wasting (million),None,None,None
+Europe,Number of children under 5 years of age who are overweight (modeled estimates) (million),2005,2020,4
+Europe,Number of children under 5 years of age who are stunted (modeled estimates) (million),2005,2020,4
+Europe,Number of moderately or severely food insecure female adults (million) (3-year average),2015,2020,0
+Europe,Number of moderately or severely food insecure female adults (million) (annual value),2014,2020,0
+Europe,Number of moderately or severely food insecure male adults (million) (3-year average),2015,2020,0
+Europe,Number of moderately or severely food insecure male adults (million) (annual value),2014,2020,0
+Europe,Number of moderately or severely food insecure people (million) (3-year average),2015,2020,0
+Europe,Number of moderately or severely food insecure people (million) (annual value),2014,2020,0
+Europe,Number of newborns with low birthweight (million),2001,2015,0
+Europe,Number of obese adults (18 years and older) (million),2001,2016,0
+Europe,Number of people undernourished (million) (3-year average),None,None,None
+Europe,Number of people undernourished (million) (annual value),None,None,None
+Europe,Number of severely food insecure female adults (million) (3-year average),2015,2020,0
+Europe,Number of severely food insecure female adults (million) (annual value),2014,2020,0
+Europe,Number of severely food insecure male adults (million) (3-year average),2015,2020,0
+Europe,Number of severely food insecure male adults (million) (annual value),2014,2020,0
+Europe,Number of severely food insecure people (million) (3-year average),2015,2020,0
+Europe,Number of severely food insecure people (million) (annual value),2014,2020,0
+Europe,Number of women of reproductive age (15-49 years) affected by anemia (million),2001,2019,0
+Europe,Per capita food production variability (constant 2014-2016 thousand int$ per capita),2001,2019,0
+Europe,Per capita food supply variability (kcal/cap/day),2001,2020,0
+Europe,Percent of arable land equipped for irrigation (percent) (3-year average),2001,2018,0
+Europe,Percentage of children under 5 years affected by wasting (percent),None,None,None
+Europe,Percentage of children under 5 years of age who are overweight (modelled estimates) (percent),2005,2020,4
+Europe,Percentage of children under 5 years of age who are stunted (modelled estimates) (percent),2005,2020,4
+Europe,Percentage of population using at least basic drinking water services (percent),2001,2020,0
+Europe,Percentage of population using at least basic sanitation services (percent),2001,2020,0
+Europe,Percentage of population using safely managed drinking water services (Percent),2001,2020,0
+Europe,Percentage of population using safely managed sanitation services (Percent),2001,2020,0
+Europe,Political stability and absence of violence/terrorism (index),None,None,None
+Europe,Prevalence of anemia among women of reproductive age (15-49 years),2001,2019,0
+Europe,Prevalence of exclusive breastfeeding among infants 0-5 months of age,None,None,None
+Europe,Prevalence of low birthweight (percent),2001,2015,0
+Europe,Prevalence of moderate or severe food insecurity in the female adult population (percent) (3-year average),2015,2020,0
+Europe,Prevalence of moderate or severe food insecurity in the female adult population (percent) (annual value),2014,2020,0
+Europe,Prevalence of moderate or severe food insecurity in the male adult population (percent) (3-year average),2015,2020,0
+Europe,Prevalence of moderate or severe food insecurity in the male adult population (percent) (annual value),2014,2020,0
+Europe,Prevalence of moderate or severe food insecurity in the total population (percent) (3-year average),2015,2020,0
+Europe,Prevalence of moderate or severe food insecurity in the total population (percent) (annual value),2014,2020,0
+Europe,Prevalence of obesity in the adult population (18 years and older),2001,2016,0
+Europe,Prevalence of severe food insecurity in the female adult population (percent) (3-year average),2015,2020,0
+Europe,Prevalence of severe food insecurity in the female adult population (percent) (annual value),2014,2020,0
+Europe,Prevalence of severe food insecurity in the male adult population (percent) (3-year average),2015,2020,0
+Europe,Prevalence of severe food insecurity in the male adult population (percent) (annual value),2014,2020,0
+Europe,Prevalence of severe food insecurity in the total population (percent) (3-year average),2015,2020,0
+Europe,Prevalence of severe food insecurity in the total population (percent) (annual value),2014,2020,0
+Europe,Prevalence of undernourishment (percent) (3-year average),2001,2020,0
+Europe,Prevalence of undernourishment (percent) (annual value),2001,2020,0
+Europe,Rail lines density (total route in km per 100 square km of land area),2001,2018,1
+Europe,"Share of dietary energy supply derived from cereals, roots and tubers (kcal/cap/day) (3-year average)",2001,2018,0
+Europe,Total FDI inflows,1990,2020,0
+Europe,Total FDI outflows,1990,2020,0
+Europe,Value of food imports in total merchandise exports (percent) (3-year average),2001,2019,0
+Europe,prod_Cereals,1970,2020,0
+Europe,prod_Eggs,1970,2020,0
+Europe,prod_Fibre,1991,2020,0
+Europe,prod_Fruit,1970,2020,0
+Europe,prod_Meat,1970,2020,0
+Europe,prod_Milk,1970,2020,0
+Europe,prod_Oilcrops,1970,2020,0
+Europe,prod_Pulses,1970,2020,0
+Europe,prod_Roots,1970,2020,0
+Europe,prod_Sugar,1970,2020,0
+Europe,prod_Treenuts,1970,2020,0
+Europe,prod_Vegetables,1970,2020,0
+Northern Africa,Average dietary energy requirement (kcal/cap/day),2001,2020,0
+Northern Africa,Average dietary energy supply adequacy (percent) (3-year average),2001,2020,0
+Northern Africa,Average fat supply (g/cap/day) (3-year average),2001,2018,0
+Northern Africa,Average protein supply (g/cap/day) (3-year average),2001,2018,0
+Northern Africa,Average supply of protein of animal origin (g/cap/day) (3-year average),2001,2018,0
+Northern Africa,Cereal import dependency ratio (percent) (3-year average),2001,2018,0
+Northern Africa,Coefficient of variation of habitual caloric consumption distribution (real number),None,None,None
+Northern Africa,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day) (3-year average),2001,2020,0
+Northern Africa,Emissions (CH4),1990,2020,0
+Northern Africa,Emissions (CO2),1990,2020,0
+Northern Africa,Emissions (CO2eq) (AR5),1990,2020,0
+Northern Africa,Emissions (N2O),1990,2020,0
+Northern Africa,Export Value_Agricultural Products,1970,2020,0
+Northern Africa,Export Value_Beverages,1970,2020,0
+Northern Africa,Export Value_Cereals and Preparations,1970,2020,0
+Northern Africa,Export Value_Dairy Products and Eggs,1970,2020,0
+Northern Africa,Export Value_Fats and Oils (excluding Butter),1970,2020,0
+Northern Africa,Export Value_Fruit and Vegetables,1970,2020,0
+Northern Africa,Export Value_Live Animals,1970,2020,0
+Northern Africa,Export Value_Meat and Meat Preparations,1970,2020,0
+Northern Africa,Export Value_Non-food,1970,2020,0
+Northern Africa,Export Value_Other food,1970,2020,0
+Northern Africa,Export Value_Sugar and Honey,1970,2020,0
+Northern Africa,Gross Domestic Product,1970,2020,0
+Northern Africa,Gross Fixed Capital Formation,1970,2020,0
+Northern Africa,"Gross Fixed Capital Formation (Agriculture, Forestry and Fishing)",1995,2020,0
+Northern Africa,"Gross domestic product per capita, PPP, (constant 2017 international $)",2012,2020,0
+Northern Africa,Import Value_Agricultural Products,1970,2020,0
+Northern Africa,Import Value_Beverages,1970,2020,0
+Northern Africa,Import Value_Cereals and Preparations,1970,2020,0
+Northern Africa,Import Value_Dairy Products and Eggs,1970,2020,0
+Northern Africa,Import Value_Fats and Oils (excluding Butter),1970,2020,0
+Northern Africa,Import Value_Fruit and Vegetables,1970,2020,0
+Northern Africa,Import Value_Live Animals,1970,2020,0
+Northern Africa,Import Value_Meat and Meat Preparations,1970,2020,0
+Northern Africa,Import Value_Non-food,1970,2020,0
+Northern Africa,Import Value_Other food,1970,2020,0
+Northern Africa,Import Value_Sugar and Honey,1970,2020,0
+Northern Africa,Incidence of caloric losses at retail distribution level (percent),None,None,None
+Northern Africa,Minimum dietary energy requirement  (kcal/cap/day),2001,2020,0
+Northern Africa,Number of children under 5 years affected by wasting (million),2020,2020,0
+Northern Africa,Number of children under 5 years of age who are overweight (modeled estimates) (million),2005,2020,4
+Northern Africa,Number of children under 5 years of age who are stunted (modeled estimates) (million),2005,2020,4
+Northern Africa,Number of moderately or severely food insecure female adults (million) (3-year average),2015,2020,0
+Northern Africa,Number of moderately or severely food insecure female adults (million) (annual value),2014,2020,0
+Northern Africa,Number of moderately or severely food insecure male adults (million) (3-year average),2015,2020,0
+Northern Africa,Number of moderately or severely food insecure male adults (million) (annual value),2014,2020,0
+Northern Africa,Number of moderately or severely food insecure people (million) (3-year average),2015,2020,0
+Northern Africa,Number of moderately or severely food insecure people (million) (annual value),2014,2020,0
+Northern Africa,Number of newborns with low birthweight (million),2001,2015,0
+Northern Africa,Number of obese adults (18 years and older) (million),2001,2016,0
+Northern Africa,Number of people undernourished (million) (3-year average),2001,2020,0
+Northern Africa,Number of people undernourished (million) (annual value),2001,2020,0
+Northern Africa,Number of severely food insecure female adults (million) (3-year average),2015,2020,0
+Northern Africa,Number of severely food insecure female adults (million) (annual value),2014,2020,0
+Northern Africa,Number of severely food insecure male adults (million) (3-year average),2015,2020,0
+Northern Africa,Number of severely food insecure male adults (million) (annual value),2014,2020,0
+Northern Africa,Number of severely food insecure people (million) (3-year average),2015,2020,0
+Northern Africa,Number of severely food insecure people (million) (annual value),2014,2020,0
+Northern Africa,Number of women of reproductive age (15-49 years) affected by anemia (million),2001,2019,0
+Northern Africa,Per capita food production variability (constant 2014-2016 thousand int$ per capita),2001,2019,0
+Northern Africa,Per capita food supply variability (kcal/cap/day),2001,2020,0
+Northern Africa,Percent of arable land equipped for irrigation (percent) (3-year average),2001,2018,0
+Northern Africa,Percentage of children under 5 years affected by wasting (percent),2020,2020,0
+Northern Africa,Percentage of children under 5 years of age who are overweight (modelled estimates) (percent),2005,2020,4
+Northern Africa,Percentage of children under 5 years of age who are stunted (modelled estimates) (percent),2005,2020,4
+Northern Africa,Percentage of population using at least basic drinking water services (percent),2001,2020,0
+Northern Africa,Percentage of population using at least basic sanitation services (percent),2001,2020,0
+Northern Africa,Percentage of population using safely managed drinking water services (Percent),2001,2020,0
+Northern Africa,Percentage of population using safely managed sanitation services (Percent),2003,2020,0
+Northern Africa,Political stability and absence of violence/terrorism (index),None,None,None
+Northern Africa,Prevalence of anemia among women of reproductive age (15-49 years),2001,2019,0
+Northern Africa,Prevalence of exclusive breastfeeding among infants 0-5 months of age,2012,2020,7
+Northern Africa,Prevalence of low birthweight (percent),2001,2015,0
+Northern Africa,Prevalence of moderate or severe food insecurity in the female adult population (percent) (3-year average),2015,2020,0
+Northern Africa,Prevalence of moderate or severe food insecurity in the female adult population (percent) (annual value),2014,2020,0
+Northern Africa,Prevalence of moderate or severe food insecurity in the male adult population (percent) (3-year average),2015,2020,0
+Northern Africa,Prevalence of moderate or severe food insecurity in the male adult population (percent) (annual value),2014,2020,0
+Northern Africa,Prevalence of moderate or severe food insecurity in the total population (percent) (3-year average),2015,2020,0
+Northern Africa,Prevalence of moderate or severe food insecurity in the total population (percent) (annual value),2014,2020,0
+Northern Africa,Prevalence of obesity in the adult population (18 years and older),2001,2016,0
+Northern Africa,Prevalence of severe food insecurity in the female adult population (percent) (3-year average),2015,2020,0
+Northern Africa,Prevalence of severe food insecurity in the female adult population (percent) (annual value),2014,2020,0
+Northern Africa,Prevalence of severe food insecurity in the male adult population (percent) (3-year average),2015,2020,0
+Northern Africa,Prevalence of severe food insecurity in the male adult population (percent) (annual value),2014,2020,0
+Northern Africa,Prevalence of severe food insecurity in the total population (percent) (3-year average),2015,2020,0
+Northern Africa,Prevalence of severe food insecurity in the total population (percent) (annual value),2014,2020,0
+Northern Africa,Prevalence of undernourishment (percent) (3-year average),2001,2020,0
+Northern Africa,Prevalence of undernourishment (percent) (annual value),2001,2020,0
+Northern Africa,Rail lines density (total route in km per 100 square km of land area),None,None,None
+Northern Africa,"Share of dietary energy supply derived from cereals, roots and tubers (kcal/cap/day) (3-year average)",2001,2018,0
+Northern Africa,Total FDI inflows,1990,2020,0
+Northern Africa,Total FDI outflows,1990,2020,0
+Northern Africa,Value of food imports in total merchandise exports (percent) (3-year average),2001,2019,0
+Northern Africa,prod_Cereals,1970,2020,0
+Northern Africa,prod_Eggs,1970,2020,0
+Northern Africa,prod_Fibre,1991,2020,0
+Northern Africa,prod_Fruit,1970,2020,0
+Northern Africa,prod_Meat,1970,2020,0
+Northern Africa,prod_Milk,1970,2020,0
+Northern Africa,prod_Oilcrops,1970,2020,0
+Northern Africa,prod_Pulses,1970,2020,0
+Northern Africa,prod_Roots,1970,2020,0
+Northern Africa,prod_Sugar,1970,2020,0
+Northern Africa,prod_Treenuts,1970,2020,0
+Northern Africa,prod_Vegetables,1970,2020,0
+Northern America,Average dietary energy requirement (kcal/cap/day),2001,2020,0
+Northern America,Average dietary energy supply adequacy (percent) (3-year average),2001,2020,0
+Northern America,Average fat supply (g/cap/day) (3-year average),2001,2018,0
+Northern America,Average protein supply (g/cap/day) (3-year average),2001,2018,0
+Northern America,Average supply of protein of animal origin (g/cap/day) (3-year average),2001,2018,0
+Northern America,Cereal import dependency ratio (percent) (3-year average),2001,2018,0
+Northern America,Coefficient of variation of habitual caloric consumption distribution (real number),None,None,None
+Northern America,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day) (3-year average),2001,2020,0
+Northern America,Emissions (CH4),1990,2020,0
+Northern America,Emissions (CO2),1990,2020,0
+Northern America,Emissions (CO2eq) (AR5),1990,2020,0
+Northern America,Emissions (N2O),1990,2020,0
+Northern America,Export Value_Agricultural Products,1970,2020,0
+Northern America,Export Value_Beverages,1970,2020,0
+Northern America,Export Value_Cereals and Preparations,1970,2020,0
+Northern America,Export Value_Dairy Products and Eggs,1970,2020,0
+Northern America,Export Value_Fats and Oils (excluding Butter),1970,2020,0
+Northern America,Export Value_Fruit and Vegetables,1970,2020,0
+Northern America,Export Value_Live Animals,1970,2020,0
+Northern America,Export Value_Meat and Meat Preparations,1970,2020,0
+Northern America,Export Value_Non-food,1970,2020,0
+Northern America,Export Value_Other food,1970,2020,0
+Northern America,Export Value_Sugar and Honey,1970,2020,0
+Northern America,Gross Domestic Product,1970,2020,0
+Northern America,Gross Fixed Capital Formation,1970,2020,0
+Northern America,"Gross Fixed Capital Formation (Agriculture, Forestry and Fishing)",1995,2020,0
+Northern America,"Gross domestic product per capita, PPP, (constant 2017 international $)",2012,2020,0
+Northern America,Import Value_Agricultural Products,1970,2020,0
+Northern America,Import Value_Beverages,1970,2020,0
+Northern America,Import Value_Cereals and Preparations,1970,2020,0
+Northern America,Import Value_Dairy Products and Eggs,1970,2020,0
+Northern America,Import Value_Fats and Oils (excluding Butter),1970,2020,0
+Northern America,Import Value_Fruit and Vegetables,1970,2020,0
+Northern America,Import Value_Live Animals,1970,2020,0
+Northern America,Import Value_Meat and Meat Preparations,1970,2020,0
+Northern America,Import Value_Non-food,1970,2020,0
+Northern America,Import Value_Other food,1970,2020,0
+Northern America,Import Value_Sugar and Honey,1970,2020,0
+Northern America,Incidence of caloric losses at retail distribution level (percent),None,None,None
+Northern America,Minimum dietary energy requirement  (kcal/cap/day),2001,2020,0
+Northern America,Number of children under 5 years affected by wasting (million),2020,2020,0
+Northern America,Number of children under 5 years of age who are overweight (modeled estimates) (million),2005,2020,4
+Northern America,Number of children under 5 years of age who are stunted (modeled estimates) (million),2005,2020,4
+Northern America,Number of moderately or severely food insecure female adults (million) (3-year average),2015,2020,0
+Northern America,Number of moderately or severely food insecure female adults (million) (annual value),2014,2020,0
+Northern America,Number of moderately or severely food insecure male adults (million) (3-year average),2015,2020,0
+Northern America,Number of moderately or severely food insecure male adults (million) (annual value),2014,2020,0
+Northern America,Number of moderately or severely food insecure people (million) (3-year average),2015,2020,0
+Northern America,Number of moderately or severely food insecure people (million) (annual value),2014,2020,0
+Northern America,Number of newborns with low birthweight (million),2001,2015,0
+Northern America,Number of obese adults (18 years and older) (million),2001,2016,0
+Northern America,Number of people undernourished (million) (3-year average),None,None,None
+Northern America,Number of people undernourished (million) (annual value),None,None,None
+Northern America,Number of severely food insecure female adults (million) (3-year average),2015,2020,0
+Northern America,Number of severely food insecure female adults (million) (annual value),2014,2020,0
+Northern America,Number of severely food insecure male adults (million) (3-year average),2015,2020,0
+Northern America,Number of severely food insecure male adults (million) (annual value),2014,2020,0
+Northern America,Number of severely food insecure people (million) (3-year average),2015,2020,0
+Northern America,Number of severely food insecure people (million) (annual value),2014,2020,0
+Northern America,Number of women of reproductive age (15-49 years) affected by anemia (million),2001,2019,0
+Northern America,Per capita food production variability (constant 2014-2016 thousand int$ per capita),2001,2019,0
+Northern America,Per capita food supply variability (kcal/cap/day),2001,2020,0
+Northern America,Percent of arable land equipped for irrigation (percent) (3-year average),2001,2018,0
+Northern America,Percentage of children under 5 years affected by wasting (percent),2020,2020,0
+Northern America,Percentage of children under 5 years of age who are overweight (modelled estimates) (percent),2005,2020,4
+Northern America,Percentage of children under 5 years of age who are stunted (modelled estimates) (percent),2005,2020,4
+Northern America,Percentage of population using at least basic drinking water services (percent),2001,2020,0
+Northern America,Percentage of population using at least basic sanitation services (percent),2001,2020,0
+Northern America,Percentage of population using safely managed drinking water services (Percent),2005,2020,0
+Northern America,Percentage of population using safely managed sanitation services (Percent),2001,2020,0
+Northern America,Political stability and absence of violence/terrorism (index),None,None,None
+Northern America,Prevalence of anemia among women of reproductive age (15-49 years),2001,2019,0
+Northern America,Prevalence of exclusive breastfeeding among infants 0-5 months of age,2012,2020,7
+Northern America,Prevalence of low birthweight (percent),2001,2015,0
+Northern America,Prevalence of moderate or severe food insecurity in the female adult population (percent) (3-year average),2015,2020,0
+Northern America,Prevalence of moderate or severe food insecurity in the female adult population (percent) (annual value),2014,2020,0
+Northern America,Prevalence of moderate or severe food insecurity in the male adult population (percent) (3-year average),2015,2020,0
+Northern America,Prevalence of moderate or severe food insecurity in the male adult population (percent) (annual value),2014,2020,0
+Northern America,Prevalence of moderate or severe food insecurity in the total population (percent) (3-year average),2015,2020,0
+Northern America,Prevalence of moderate or severe food insecurity in the total population (percent) (annual value),2014,2020,0
+Northern America,Prevalence of obesity in the adult population (18 years and older),2001,2016,0
+Northern America,Prevalence of severe food insecurity in the female adult population (percent) (3-year average),2015,2020,0
+Northern America,Prevalence of severe food insecurity in the female adult population (percent) (annual value),2014,2020,0
+Northern America,Prevalence of severe food insecurity in the male adult population (percent) (3-year average),2015,2020,0
+Northern America,Prevalence of severe food insecurity in the male adult population (percent) (annual value),2014,2020,0
+Northern America,Prevalence of severe food insecurity in the total population (percent) (3-year average),2015,2020,0
+Northern America,Prevalence of severe food insecurity in the total population (percent) (annual value),2014,2020,0
+Northern America,Prevalence of undernourishment (percent) (3-year average),2001,2020,0
+Northern America,Prevalence of undernourishment (percent) (annual value),2001,2020,0
+Northern America,Rail lines density (total route in km per 100 square km of land area),2004,2018,8
+Northern America,"Share of dietary energy supply derived from cereals, roots and tubers (kcal/cap/day) (3-year average)",2001,2018,0
+Northern America,Total FDI inflows,1990,2020,0
+Northern America,Total FDI outflows,1990,2020,0
+Northern America,Value of food imports in total merchandise exports (percent) (3-year average),2001,2019,0
+Northern America,prod_Cereals,1970,2020,0
+Northern America,prod_Eggs,1970,2020,0
+Northern America,prod_Fibre,1991,2020,0
+Northern America,prod_Fruit,1970,2020,0
+Northern America,prod_Meat,1970,2020,0
+Northern America,prod_Milk,1970,2020,0
+Northern America,prod_Oilcrops,1970,2020,0
+Northern America,prod_Pulses,1970,2020,0
+Northern America,prod_Roots,1970,2020,0
+Northern America,prod_Sugar,1970,2020,0
+Northern America,prod_Treenuts,1970,2020,0
+Northern America,prod_Vegetables,1970,2020,0
+Oceania,Average dietary energy requirement (kcal/cap/day),2001,2020,0
+Oceania,Average dietary energy supply adequacy (percent) (3-year average),2001,2020,0
+Oceania,Average fat supply (g/cap/day) (3-year average),2001,2018,0
+Oceania,Average protein supply (g/cap/day) (3-year average),2001,2018,0
+Oceania,Average supply of protein of animal origin (g/cap/day) (3-year average),2001,2018,0
+Oceania,Cereal import dependency ratio (percent) (3-year average),2001,2018,0
+Oceania,Coefficient of variation of habitual caloric consumption distribution (real number),None,None,None
+Oceania,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day) (3-year average),2001,2020,0
+Oceania,Emissions (CH4),1990,2020,0
+Oceania,Emissions (CO2),1990,2020,0
+Oceania,Emissions (CO2eq) (AR5),1990,2020,0
+Oceania,Emissions (N2O),1990,2020,0
+Oceania,Export Value_Agricultural Products,1970,2020,0
+Oceania,Export Value_Beverages,1970,2020,0
+Oceania,Export Value_Cereals and Preparations,1970,2020,0
+Oceania,Export Value_Dairy Products and Eggs,1970,2020,0
+Oceania,Export Value_Fats and Oils (excluding Butter),1970,2020,0
+Oceania,Export Value_Fruit and Vegetables,1970,2020,0
+Oceania,Export Value_Live Animals,1970,2020,0
+Oceania,Export Value_Meat and Meat Preparations,1970,2020,0
+Oceania,Export Value_Non-food,1970,2020,0
+Oceania,Export Value_Other food,1970,2020,0
+Oceania,Export Value_Sugar and Honey,1970,2020,0
+Oceania,Gross Domestic Product,1970,2020,0
+Oceania,Gross Fixed Capital Formation,1970,2020,0
+Oceania,"Gross Fixed Capital Formation (Agriculture, Forestry and Fishing)",1995,2020,0
+Oceania,"Gross domestic product per capita, PPP, (constant 2017 international $)",2012,2020,0
+Oceania,Import Value_Agricultural Products,1970,2020,0
+Oceania,Import Value_Beverages,1970,2020,0
+Oceania,Import Value_Cereals and Preparations,1970,2020,0
+Oceania,Import Value_Dairy Products and Eggs,1970,2020,0
+Oceania,Import Value_Fats and Oils (excluding Butter),1970,2020,0
+Oceania,Import Value_Fruit and Vegetables,1970,2020,0
+Oceania,Import Value_Live Animals,1970,2020,0
+Oceania,Import Value_Meat and Meat Preparations,1970,2020,0
+Oceania,Import Value_Non-food,1970,2020,0
+Oceania,Import Value_Other food,1970,2020,0
+Oceania,Import Value_Sugar and Honey,1970,2020,0
+Oceania,Incidence of caloric losses at retail distribution level (percent),None,None,None
+Oceania,Minimum dietary energy requirement  (kcal/cap/day),2001,2020,0
+Oceania,Number of children under 5 years affected by wasting (million),None,None,None
+Oceania,Number of children under 5 years of age who are overweight (modeled estimates) (million),None,None,None
+Oceania,Number of children under 5 years of age who are stunted (modeled estimates) (million),None,None,None
+Oceania,Number of moderately or severely food insecure female adults (million) (3-year average),2015,2020,0
+Oceania,Number of moderately or severely food insecure female adults (million) (annual value),2014,2020,0
+Oceania,Number of moderately or severely food insecure male adults (million) (3-year average),2015,2020,0
+Oceania,Number of moderately or severely food insecure male adults (million) (annual value),2014,2020,0
+Oceania,Number of moderately or severely food insecure people (million) (3-year average),2015,2020,0
+Oceania,Number of moderately or severely food insecure people (million) (annual value),2014,2020,0
+Oceania,Number of newborns with low birthweight (million),2001,2015,0
+Oceania,Number of obese adults (18 years and older) (million),2001,2016,0
+Oceania,Number of people undernourished (million) (3-year average),2001,2020,0
+Oceania,Number of people undernourished (million) (annual value),2001,2020,0
+Oceania,Number of severely food insecure female adults (million) (3-year average),2015,2020,0
+Oceania,Number of severely food insecure female adults (million) (annual value),2014,2020,0
+Oceania,Number of severely food insecure male adults (million) (3-year average),2015,2020,0
+Oceania,Number of severely food insecure male adults (million) (annual value),2014,2020,0
+Oceania,Number of severely food insecure people (million) (3-year average),2015,2020,0
+Oceania,Number of severely food insecure people (million) (annual value),2014,2020,0
+Oceania,Number of women of reproductive age (15-49 years) affected by anemia (million),2001,2019,0
+Oceania,Per capita food production variability (constant 2014-2016 thousand int$ per capita),2001,2019,0
+Oceania,Per capita food supply variability (kcal/cap/day),2001,2020,0
+Oceania,Percent of arable land equipped for irrigation (percent) (3-year average),2001,2018,0
+Oceania,Percentage of children under 5 years affected by wasting (percent),None,None,None
+Oceania,Percentage of children under 5 years of age who are overweight (modelled estimates) (percent),None,None,None
+Oceania,Percentage of children under 5 years of age who are stunted (modelled estimates) (percent),None,None,None
+Oceania,Percentage of population using at least basic drinking water services (percent),2001,2020,0
+Oceania,Percentage of population using at least basic sanitation services (percent),2001,2020,0
+Oceania,Percentage of population using safely managed drinking water services (Percent),None,None,None
+Oceania,Percentage of population using safely managed sanitation services (Percent),2001,2020,0
+Oceania,Political stability and absence of violence/terrorism (index),None,None,None
+Oceania,Prevalence of anemia among women of reproductive age (15-49 years),2001,2019,0
+Oceania,Prevalence of exclusive breastfeeding among infants 0-5 months of age,None,None,None
+Oceania,Prevalence of low birthweight (percent),None,None,None
+Oceania,Prevalence of moderate or severe food insecurity in the female adult population (percent) (3-year average),2015,2020,0
+Oceania,Prevalence of moderate or severe food insecurity in the female adult population (percent) (annual value),2014,2020,0
+Oceania,Prevalence of moderate or severe food insecurity in the male adult population (percent) (3-year average),2015,2020,0
+Oceania,Prevalence of moderate or severe food insecurity in the male adult population (percent) (annual value),2014,2020,0
+Oceania,Prevalence of moderate or severe food insecurity in the total population (percent) (3-year average),2015,2020,0
+Oceania,Prevalence of moderate or severe food insecurity in the total population (percent) (annual value),2014,2020,0
+Oceania,Prevalence of obesity in the adult population (18 years and older),2001,2016,0
+Oceania,Prevalence of severe food insecurity in the female adult population (percent) (3-year average),2015,2020,0
+Oceania,Prevalence of severe food insecurity in the female adult population (percent) (annual value),2014,2020,0
+Oceania,Prevalence of severe food insecurity in the male adult population (percent) (3-year average),2015,2020,0
+Oceania,Prevalence of severe food insecurity in the male adult population (percent) (annual value),2014,2020,0
+Oceania,Prevalence of severe food insecurity in the total population (percent) (3-year average),2015,2020,0
+Oceania,Prevalence of severe food insecurity in the total population (percent) (annual value),2014,2020,0
+Oceania,Prevalence of undernourishment (percent) (3-year average),2001,2020,0
+Oceania,Prevalence of undernourishment (percent) (annual value),2001,2020,0
+Oceania,Rail lines density (total route in km per 100 square km of land area),2001,2011,0
+Oceania,"Share of dietary energy supply derived from cereals, roots and tubers (kcal/cap/day) (3-year average)",2001,2018,0
+Oceania,Total FDI inflows,1990,2020,0
+Oceania,Total FDI outflows,1990,2020,0
+Oceania,Value of food imports in total merchandise exports (percent) (3-year average),2001,2019,0
+Oceania,prod_Cereals,1970,2020,0
+Oceania,prod_Eggs,1970,2020,0
+Oceania,prod_Fibre,1991,2020,0
+Oceania,prod_Fruit,1970,2020,0
+Oceania,prod_Meat,1970,2020,0
+Oceania,prod_Milk,1970,2020,0
+Oceania,prod_Oilcrops,1970,2020,0
+Oceania,prod_Pulses,1970,2020,0
+Oceania,prod_Roots,1970,2020,0
+Oceania,prod_Sugar,1970,2020,0
+Oceania,prod_Treenuts,1970,2020,0
+Oceania,prod_Vegetables,1970,2020,0
+SSA,Average dietary energy requirement (kcal/cap/day),2001,2020,0
+SSA,Average dietary energy supply adequacy (percent) (3-year average),2001,2020,0
+SSA,Average fat supply (g/cap/day) (3-year average),2001,2018,0
+SSA,Average protein supply (g/cap/day) (3-year average),2001,2018,0
+SSA,Average supply of protein of animal origin (g/cap/day) (3-year average),2001,2018,0
+SSA,Cereal import dependency ratio (percent) (3-year average),2001,2018,0
+SSA,Coefficient of variation of habitual caloric consumption distribution (real number),None,None,None
+SSA,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day) (3-year average),2001,2020,0
+SSA,Emissions (CH4),1990,2020,0
+SSA,Emissions (CO2),1990,2020,0
+SSA,Emissions (CO2eq) (AR5),1990,2020,0
+SSA,Emissions (N2O),1990,2020,0
+SSA,Export Value_Agricultural Products,1970,2020,0
+SSA,Export Value_Beverages,1970,2020,0
+SSA,Export Value_Cereals and Preparations,1970,2020,0
+SSA,Export Value_Dairy Products and Eggs,1970,2020,0
+SSA,Export Value_Fats and Oils (excluding Butter),1970,2020,0
+SSA,Export Value_Fruit and Vegetables,1970,2020,0
+SSA,Export Value_Live Animals,1970,2020,0
+SSA,Export Value_Meat and Meat Preparations,1970,2020,0
+SSA,Export Value_Non-food,1970,2020,0
+SSA,Export Value_Other food,1970,2020,0
+SSA,Export Value_Sugar and Honey,1970,2020,0
+SSA,Gross Domestic Product,1970,2020,0
+SSA,Gross Fixed Capital Formation,1970,2020,0
+SSA,"Gross Fixed Capital Formation (Agriculture, Forestry and Fishing)",1995,2020,0
+SSA,"Gross domestic product per capita, PPP, (constant 2017 international $)",2012,2020,0
+SSA,Import Value_Agricultural Products,1970,2020,0
+SSA,Import Value_Beverages,1970,2020,0
+SSA,Import Value_Cereals and Preparations,1970,2020,0
+SSA,Import Value_Dairy Products and Eggs,1970,2020,0
+SSA,Import Value_Fats and Oils (excluding Butter),1970,2020,0
+SSA,Import Value_Fruit and Vegetables,1970,2020,0
+SSA,Import Value_Live Animals,1970,2020,0
+SSA,Import Value_Meat and Meat Preparations,1970,2020,0
+SSA,Import Value_Non-food,1970,2020,0
+SSA,Import Value_Other food,1970,2020,0
+SSA,Import Value_Sugar and Honey,1970,2020,0
+SSA,Incidence of caloric losses at retail distribution level (percent),None,None,None
+SSA,Minimum dietary energy requirement  (kcal/cap/day),2001,2020,0
+SSA,Number of children under 5 years affected by wasting (million),2020,2020,0
+SSA,Number of children under 5 years of age who are overweight (modeled estimates) (million),2005,2020,4
+SSA,Number of children under 5 years of age who are stunted (modeled estimates) (million),2005,2020,4
+SSA,Number of moderately or severely food insecure female adults (million) (3-year average),2015,2020,0
+SSA,Number of moderately or severely food insecure female adults (million) (annual value),2014,2020,0
+SSA,Number of moderately or severely food insecure male adults (million) (3-year average),2015,2020,0
+SSA,Number of moderately or severely food insecure male adults (million) (annual value),2014,2020,0
+SSA,Number of moderately or severely food insecure people (million) (3-year average),2015,2020,0
+SSA,Number of moderately or severely food insecure people (million) (annual value),2014,2020,0
+SSA,Number of newborns with low birthweight (million),2001,2015,0
+SSA,Number of obese adults (18 years and older) (million),2001,2016,0
+SSA,Number of people undernourished (million) (3-year average),2001,2020,0
+SSA,Number of people undernourished (million) (annual value),2001,2020,0
+SSA,Number of severely food insecure female adults (million) (3-year average),2015,2020,0
+SSA,Number of severely food insecure female adults (million) (annual value),2014,2020,0
+SSA,Number of severely food insecure male adults (million) (3-year average),2015,2020,0
+SSA,Number of severely food insecure male adults (million) (annual value),2014,2020,0
+SSA,Number of severely food insecure people (million) (3-year average),2015,2020,0
+SSA,Number of severely food insecure people (million) (annual value),2014,2020,0
+SSA,Number of women of reproductive age (15-49 years) affected by anemia (million),2001,2019,0
+SSA,Per capita food production variability (constant 2014-2016 thousand int$ per capita),2001,2019,0
+SSA,Per capita food supply variability (kcal/cap/day),2001,2020,0
+SSA,Percent of arable land equipped for irrigation (percent) (3-year average),2001,2018,0
+SSA,Percentage of children under 5 years affected by wasting (percent),2020,2020,0
+SSA,Percentage of children under 5 years of age who are overweight (modelled estimates) (percent),2005,2020,4
+SSA,Percentage of children under 5 years of age who are stunted (modelled estimates) (percent),2005,2020,4
+SSA,Percentage of population using at least basic drinking water services (percent),2001,2020,0
+SSA,Percentage of population using at least basic sanitation services (percent),2001,2020,0
+SSA,Percentage of population using safely managed drinking water services (Percent),2001,2020,0
+SSA,Percentage of population using safely managed sanitation services (Percent),2001,2020,0
+SSA,Political stability and absence of violence/terrorism (index),None,None,None
+SSA,Prevalence of anemia among women of reproductive age (15-49 years),2001,2019,0
+SSA,Prevalence of exclusive breastfeeding among infants 0-5 months of age,2012,2020,7
+SSA,Prevalence of low birthweight (percent),2001,2015,0
+SSA,Prevalence of moderate or severe food insecurity in the female adult population (percent) (3-year average),2015,2020,0
+SSA,Prevalence of moderate or severe food insecurity in the female adult population (percent) (annual value),2014,2020,0
+SSA,Prevalence of moderate or severe food insecurity in the male adult population (percent) (3-year average),2015,2020,0
+SSA,Prevalence of moderate or severe food insecurity in the male adult population (percent) (annual value),2014,2020,0
+SSA,Prevalence of moderate or severe food insecurity in the total population (percent) (3-year average),2015,2020,0
+SSA,Prevalence of moderate or severe food insecurity in the total population (percent) (annual value),2014,2020,0
+SSA,Prevalence of obesity in the adult population (18 years and older),2001,2016,0
+SSA,Prevalence of severe food insecurity in the female adult population (percent) (3-year average),2015,2020,0
+SSA,Prevalence of severe food insecurity in the female adult population (percent) (annual value),2014,2020,0
+SSA,Prevalence of severe food insecurity in the male adult population (percent) (3-year average),2015,2020,0
+SSA,Prevalence of severe food insecurity in the male adult population (percent) (annual value),2014,2020,0
+SSA,Prevalence of severe food insecurity in the total population (percent) (3-year average),2015,2020,0
+SSA,Prevalence of severe food insecurity in the total population (percent) (annual value),2014,2020,0
+SSA,Prevalence of undernourishment (percent) (3-year average),2001,2020,0
+SSA,Prevalence of undernourishment (percent) (annual value),2001,2020,0
+SSA,Rail lines density (total route in km per 100 square km of land area),None,None,None
+SSA,"Share of dietary energy supply derived from cereals, roots and tubers (kcal/cap/day) (3-year average)",2001,2018,0
+SSA,Total FDI inflows,1990,2020,0
+SSA,Total FDI outflows,1990,2020,0
+SSA,Value of food imports in total merchandise exports (percent) (3-year average),2001,2019,0
+SSA,prod_Cereals,1970,2020,0
+SSA,prod_Eggs,1970,2020,0
+SSA,prod_Fibre,1970,2020,0
+SSA,prod_Fruit,1970,2020,0
+SSA,prod_Meat,1970,2020,0
+SSA,prod_Milk,1970,2020,0
+SSA,prod_Oilcrops,1970,2020,0
+SSA,prod_Pulses,1970,2020,0
+SSA,prod_Roots,1970,2020,0
+SSA,prod_Sugar,1970,2020,0
+SSA,prod_Treenuts,1970,2020,0
+SSA,prod_Vegetables,1970,2020,0
+World,Average dietary energy requirement (kcal/cap/day),2001,2020,0
+World,Average dietary energy supply adequacy (percent) (3-year average),2001,2020,0
+World,Average fat supply (g/cap/day) (3-year average),2001,2018,0
+World,Average protein supply (g/cap/day) (3-year average),2001,2018,0
+World,Average supply of protein of animal origin (g/cap/day) (3-year average),2001,2018,0
+World,Cereal import dependency ratio (percent) (3-year average),2001,2018,0
+World,Coefficient of variation of habitual caloric consumption distribution (real number),None,None,None
+World,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day) (3-year average),2001,2020,0
+World,Emissions (CH4),1990,2020,0
+World,Emissions (CO2),1990,2020,0
+World,Emissions (CO2eq) (AR5),1990,2020,0
+World,Emissions (N2O),1990,2020,0
+World,Export Value_Agricultural Products,1970,2020,0
+World,Export Value_Beverages,1970,2020,0
+World,Export Value_Cereals and Preparations,1970,2020,0
+World,Export Value_Dairy Products and Eggs,1970,2020,0
+World,Export Value_Fats and Oils (excluding Butter),1970,2020,0
+World,Export Value_Fruit and Vegetables,1970,2020,0
+World,Export Value_Live Animals,1970,2020,0
+World,Export Value_Meat and Meat Preparations,1970,2020,0
+World,Export Value_Non-food,1970,2020,0
+World,Export Value_Other food,1970,2020,0
+World,Export Value_Sugar and Honey,1970,2020,0
+World,Gross Domestic Product,1970,2020,0
+World,Gross Fixed Capital Formation,1970,2020,0
+World,"Gross Fixed Capital Formation (Agriculture, Forestry and Fishing)",1995,2020,0
+World,"Gross domestic product per capita, PPP, (constant 2017 international $)",2012,2020,0
+World,Import Value_Agricultural Products,1970,2020,0
+World,Import Value_Beverages,1970,2020,0
+World,Import Value_Cereals and Preparations,1970,2020,0
+World,Import Value_Dairy Products and Eggs,1970,2020,0
+World,Import Value_Fats and Oils (excluding Butter),1970,2020,0
+World,Import Value_Fruit and Vegetables,1970,2020,0
+World,Import Value_Live Animals,1970,2020,0
+World,Import Value_Meat and Meat Preparations,1970,2020,0
+World,Import Value_Non-food,1970,2020,0
+World,Import Value_Other food,1970,2020,0
+World,Import Value_Sugar and Honey,1970,2020,0
+World,Incidence of caloric losses at retail distribution level (percent),None,None,None
+World,Minimum dietary energy requirement  (kcal/cap/day),2001,2020,0
+World,Number of children under 5 years affected by wasting (million),2020,2020,0
+World,Number of children under 5 years of age who are overweight (modeled estimates) (million),2005,2020,4
+World,Number of children under 5 years of age who are stunted (modeled estimates) (million),2005,2020,4
+World,Number of moderately or severely food insecure female adults (million) (3-year average),2015,2020,0
+World,Number of moderately or severely food insecure female adults (million) (annual value),2014,2020,0
+World,Number of moderately or severely food insecure male adults (million) (3-year average),2015,2020,0
+World,Number of moderately or severely food insecure male adults (million) (annual value),2014,2020,0
+World,Number of moderately or severely food insecure people (million) (3-year average),2015,2020,0
+World,Number of moderately or severely food insecure people (million) (annual value),2014,2020,0
+World,Number of newborns with low birthweight (million),2001,2015,0
+World,Number of obese adults (18 years and older) (million),2001,2016,0
+World,Number of people undernourished (million) (3-year average),2001,2020,0
+World,Number of people undernourished (million) (annual value),2001,2020,0
+World,Number of severely food insecure female adults (million) (3-year average),2015,2020,0
+World,Number of severely food insecure female adults (million) (annual value),2014,2020,0
+World,Number of severely food insecure male adults (million) (3-year average),2015,2020,0
+World,Number of severely food insecure male adults (million) (annual value),2014,2020,0
+World,Number of severely food insecure people (million) (3-year average),2015,2020,0
+World,Number of severely food insecure people (million) (annual value),2014,2020,0
+World,Number of women of reproductive age (15-49 years) affected by anemia (million),2001,2019,0
+World,Per capita food production variability (constant 2014-2016 thousand int$ per capita),2001,2019,0
+World,Per capita food supply variability (kcal/cap/day),2001,2020,0
+World,Percent of arable land equipped for irrigation (percent) (3-year average),2001,2018,0
+World,Percentage of children under 5 years affected by wasting (percent),2020,2020,0
+World,Percentage of children under 5 years of age who are overweight (modelled estimates) (percent),2005,2020,4
+World,Percentage of children under 5 years of age who are stunted (modelled estimates) (percent),2005,2020,4
+World,Percentage of population using at least basic drinking water services (percent),2001,2020,0
+World,Percentage of population using at least basic sanitation services (percent),2001,2020,0
+World,Percentage of population using safely managed drinking water services (Percent),2001,2020,0
+World,Percentage of population using safely managed sanitation services (Percent),2001,2020,0
+World,Political stability and absence of violence/terrorism (index),None,None,None
+World,Prevalence of anemia among women of reproductive age (15-49 years),2001,2019,0
+World,Prevalence of exclusive breastfeeding among infants 0-5 months of age,2012,2020,7
+World,Prevalence of low birthweight (percent),2001,2015,0
+World,Prevalence of moderate or severe food insecurity in the female adult population (percent) (3-year average),2015,2020,0
+World,Prevalence of moderate or severe food insecurity in the female adult population (percent) (annual value),2014,2020,0
+World,Prevalence of moderate or severe food insecurity in the male adult population (percent) (3-year average),2015,2020,0
+World,Prevalence of moderate or severe food insecurity in the male adult population (percent) (annual value),2014,2020,0
+World,Prevalence of moderate or severe food insecurity in the total population (percent) (3-year average),2015,2020,0
+World,Prevalence of moderate or severe food insecurity in the total population (percent) (annual value),2014,2020,0
+World,Prevalence of obesity in the adult population (18 years and older),2001,2016,0
+World,Prevalence of severe food insecurity in the female adult population (percent) (3-year average),2015,2020,0
+World,Prevalence of severe food insecurity in the female adult population (percent) (annual value),2014,2020,0
+World,Prevalence of severe food insecurity in the male adult population (percent) (3-year average),2015,2020,0
+World,Prevalence of severe food insecurity in the male adult population (percent) (annual value),2014,2020,0
+World,Prevalence of severe food insecurity in the total population (percent) (3-year average),2015,2020,0
+World,Prevalence of severe food insecurity in the total population (percent) (annual value),2014,2020,0
+World,Prevalence of undernourishment (percent) (3-year average),2001,2020,0
+World,Prevalence of undernourishment (percent) (annual value),2001,2020,0
+World,Rail lines density (total route in km per 100 square km of land area),2004,2007,2
+World,"Share of dietary energy supply derived from cereals, roots and tubers (kcal/cap/day) (3-year average)",2001,2018,0
+World,Total FDI inflows,1990,2020,0
+World,Total FDI outflows,1990,2020,0
+World,Value of food imports in total merchandise exports (percent) (3-year average),2001,2019,0
+World,prod_Cereals,1970,2020,0
+World,prod_Eggs,1970,2020,0
+World,prod_Fibre,1991,2020,0
+World,prod_Fruit,1970,2020,0
+World,prod_Meat,1970,2020,0
+World,prod_Milk,1970,2020,0
+World,prod_Oilcrops,1970,2020,0
+World,prod_Pulses,1970,2020,0
+World,prod_Roots,1970,2020,0
+World,prod_Sugar,1970,2020,0
+World,prod_Treenuts,1970,2020,0
+World,prod_Vegetables,1970,2020,0
