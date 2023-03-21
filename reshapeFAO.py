@@ -76,11 +76,8 @@ regions = [str(i) for i in [420,3455,5000,5100,5103,5200,5203,5205,5300,5400,550
 
 # GDP (US$ per capita, 2015 prices) and Gross Fixed Capital Formation (Share of GDP) for each region (except SSA)
 MK_r = (faostat.get_data_df('MK', pars = {'areas' : [regions], 
-  'elements': [6185,6187], 'items' : [22008,22015]})
-  .pivot(index=['Area','Year'], columns='Item', values='Value')
+  'elements': [6185,6187], 'items' : [22008,22015]}).pivot(index=['Area','Year'], columns='Item', values='Value')
   )
-
-# MK_r.reset_index()['Year'].groupby(MK_r.reset_index()['Area']).agg([min,max])
 
 
 # Gross Fixed Capital Formation (Agriculture, Forestry and Fishing)- Share of Gross Fixed Capital Formation US$, 2015 prices
