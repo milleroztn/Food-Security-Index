@@ -64,7 +64,7 @@ def transform_colname(name,x):
     if first_word[-1] == ',':
         first_word = first_word[:-1]
     
-    # Add "prod" before first word and return
+    # Add "prod" or whatever before first word and return
     return str(x) + '_' + first_word
 
 # List of FAO area codes for countries in sub-saharan africa and for regions
@@ -190,6 +190,7 @@ del GT, GT_SSAg, QCL, QCL_SSAg, FDI_SSAg, TCL, TCL_SSAg
 
 # Food Security variables from FAOSTAT
 FS = faostat.get_data_df('FS', pars = {'areas' : [regions,SSAareas], 'elements': 6120}).pivot(index=['Area Code (FAO)','Area','Year'], columns='Item', values='Value').fillna(value=np.nan)
+FS = FS.rename(columns={col: 'FS_' + col for col in FS.columns})
 
 # Recode the year of three-year-average values to the middle year
 FS1 = FS.reset_index()[FS.reset_index().Year.apply(len) > 4].dropna(how='all', axis=1)
@@ -198,6 +199,8 @@ FS1 = FS1.set_index(['Area Code (FAO)','Area','Year'])
 FS2 = FS.reset_index()[~(FS.reset_index().Year.apply(len) > 4)].dropna(how='all', axis=1).set_index(['Area Code (FAO)','Area','Year'])
 FS = FS1.join(FS2).reset_index()
 FS['Area'] = FS['Area'].replace('Sub-Saharan Africa', 'SSA')
+
+
 
 # Separate region-level data from country-level data
 FS_r = FS[FS['Area Code (FAO)'].isin(regions)].drop('Area Code (FAO)', axis=1).set_index(['Area','Year']).sort_index()
