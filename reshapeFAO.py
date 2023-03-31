@@ -64,7 +64,7 @@ def transform_colname(name,x):
     if first_word[-1] == ',':
         first_word = first_word[:-1]
     
-    # Add "prod" or whatever before first word and return
+    # Add 'prod' or whatever before first word and return
     return str(x) + '_' + first_word
 
 # List of FAO area codes for countries in sub-saharan africa and for regions
@@ -200,11 +200,29 @@ FS2 = FS.reset_index()[~(FS.reset_index().Year.apply(len) > 4)].dropna(how='all'
 FS = FS1.join(FS2).reset_index()
 FS['Area'] = FS['Area'].replace('Sub-Saharan Africa', 'SSA')
 
-
-
 # Separate region-level data from country-level data
 FS_r = FS[FS['Area Code (FAO)'].isin(regions)].drop('Area Code (FAO)', axis=1).set_index(['Area','Year']).sort_index()
 FS_SSA = FS[FS['Area Code (FAO)'].isin(SSAareas)].drop('Area Code (FAO)', axis=1).set_index(['Area','Year']).sort_index()
+
+# Add Land Area and generate average rail density for SSA
+SSA_size = faostat.get_data_df('RL', pars = {'areas' : [SSAareas], 'elements': 5110, 'items': 6601}).pivot(index=['Area Code (FAO)','Area','Year'], columns='Item', values='Value').fillna(value=np.nan)
+FS_SSA = FS_SSA.join(SSA_size).reset_index()
+FS_SSA['FS_Rail lines density (total route in km per 100 square km of land area)'] = FS_SSA['FS_Rail lines density (total route in km per 100 square km of land area)'].astype(np.float64)
+FS_SSA = FS_SSA.set_index(['Area','Year'])
+FS_SSAg = (FS_SSA.groupby('Year').apply(weighted_average, 'FS_Rail lines density (total route in km per 100 square km of land area)', 'Land area')
+  .to_frame().reset_index().rename(columns = {0:'FS_Rail lines density (total route in km per 100 square km of land area)'}).set_index('Year')
+  .replace(0, np.nan)
+  )
+
+FS_SSAg = pd.concat({'SSA': FS_SSAg}, names=['Area'])
+  
+
+FS_r['FS_Rail lines density (total route in km per 100 square km of land area)'] = (
+  pd.concat([pd.DataFrame(FS_r.reset_index()[FS_r.reset_index().Area != 'SSA']
+  .set_index(['Area', 'Year'])
+  ['FS_Rail lines density (total route in km per 100 square km of land area)']),FS_SSAg])
+  .sort_index()
+  )
 
 del FS1, FS2, FS
 
@@ -215,8 +233,8 @@ FAO_SSA = MK_SSA.join([CS_SSA, FDI_SSA, GT_SSA, QCL_SSA, TCL_SSA, FS_SSA]).sort_
 # View(which_years(FAO_r))
 # View(which_years(FAO_SSA))
 
-FAO_r.reset_index().to_csv("../data/FAO_r.csv", index=False)
-FAO_SSA.reset_index().to_csv("../data/FAO_SSA.csv", index=False)
+FAO_r.reset_index().to_csv('../data/FAO_r.csv', index=False)
+FAO_SSA.reset_index().to_csv('../data/FAO_SSA.csv', index=False)
 
 # dfs = dict(MK_r=MK_r, CS_r=CS_r, FDI_r=FDI_r, GT_r=GT_r, QCL_r=QCL_r, TCL_r=TCL_r, FS_r=FS_r)
 # 
