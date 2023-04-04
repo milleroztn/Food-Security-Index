@@ -219,7 +219,7 @@ FS_SSA = FS[FS['Area Code (FAO)'].isin(SSAareas)].drop('Area Code (FAO)', axis=1
 SSA_size = faostat.get_data_df('RL', pars = {'areas' : [SSAareas], 'elements': 5110, 'items': 6601}).pivot(index=['Area Code (FAO)','Area','Year'], columns='Item', values='Value').fillna(value=np.nan)
 FS_SSA = FS_SSA.join(SSA_size).reset_index()
 FS_SSA['FS_Rail lines density (total route in km per 100 square km of land area)'] = FS_SSA['FS_Rail lines density (total route in km per 100 square km of land area)'].astype(np.float64)
-FS_SSA = FS_SSA.set_index(['Area','Year'])
+FS_SSA = FS_SSA.drop('Area Code (FAO)', axis=1).set_index(['Area','Year']).sort_index()
 FS_SSAg = (FS_SSA.groupby('Year').apply(weighted_average, 'FS_Rail lines density (total route in km per 100 square km of land area)', 'Land area')
   .to_frame().reset_index().rename(columns = {0:'FS_Rail lines density (total route in km per 100 square km of land area)'}).set_index('Year')
   .replace(0, np.nan)
