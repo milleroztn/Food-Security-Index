@@ -66,6 +66,17 @@ def transform_colname(name,x):
     
     # Add 'prod' or whatever before first word and return
     return str(x) + '_' + first_word
+  
+  
+# Define function to compare areas in dataset
+def which_areas(df1,df2):
+  print("Values in df1 that are not in df2:")
+  s1 = df1.reset_index().Area[~df1.reset_index().Area.isin(df2.reset_index().Area)].drop_duplicates()
+  print(s1)
+  print("Values in df2 that are not in df1:")
+  s2 = df2.reset_index().Area[~df2.reset_index().Area.isin(df1.reset_index().Area)].drop_duplicates()
+  print(s2)
+
 
 # List of FAO area codes for countries in sub-saharan africa and for regions
 SSAareas = [str(i) for i in [7,53,20,233,29,35,32,37,39,45,46,107,250,72,61,178,209,238,74,75,81,90,175,114,
@@ -226,21 +237,23 @@ FS_r['FS_Rail lines density (total route in km per 100 square km of land area)']
 
 del FS1, FS2, FS
 
+#which_areas(MK_SSA,FS_SSA)
 
-FAO_r = MK_r.join([CS_r, FDI_r, GT_r, QCL_r, TCL_r, FS_r]).sort_index()
-FAO_SSA = MK_SSA.join([CS_SSA, FDI_SSA, GT_SSA, QCL_SSA, TCL_SSA, FS_SSA]).sort_index()
+FAO_r = MK_r.join([CS_r, FDI_r, GT_r, QCL_r, TCL_r, FS_r], how='outer').sort_index()
+FAO_SSA = MK_SSA.join([CS_SSA, FDI_SSA, GT_SSA, QCL_SSA, TCL_SSA, FS_SSA], how='outer').sort_index()
 
 # View(which_years(FAO_r))
 # View(which_years(FAO_SSA))
 
+
 FAO_r.reset_index().to_csv('../data/FAO_r.csv', index=False)
 FAO_SSA.reset_index().to_csv('../data/FAO_SSA.csv', index=False)
 
-# dfs = dict(MK_r=MK_r, CS_r=CS_r, FDI_r=FDI_r, GT_r=GT_r, QCL_r=QCL_r, TCL_r=TCL_r, FS_r=FS_r)
+# dfs = dict(MK_SSA=MK_SSA, CS_SSA=CS_SSA, FDI_SSA=FDI_SSA, GT_SSA=GT_SSA, QCL_SSA=QCL_SSA, TCL_SSA=TCL_SSA, FS_SSA=FS_SSA)
 # 
 # for name, df in dfs.items():
 #   print(name)
 #   df.sort_index().reset_index().Area.drop_duplicates()
 #   df.sort_index().reset_index().Area.drop_duplicates().count()
-
+  
 # print(pd.DataFrame(faostat.get_areas('QCL').items()).sort_values(0).to_string())

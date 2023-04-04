@@ -1,7 +1,5 @@
 import pandas as pd
 import numpy as np
-import matplotlib.pyplot as plt
-import seaborn as sns
 from pandas import Series, DataFrame
 from numpy import nan as NA
 
@@ -21,4 +19,10 @@ gfsi_r.join(FAO_r, how='right').to_csv("../data/data_r.csv")
 gfsi_SSA = pd.read_csv("../data/gfsi_SSA.csv").set_index(['Area','Year'])
 FAO_SSA = pd.read_csv("../data/FAO_SSA.csv").set_index(['Area','Year'])
 
-gfsi_SSA.join(FAO_SSA, how='outer').to_csv("../data/data_SSA.csv")
+# which_areas(FAO_SSA,gfsi_SSA)
+
+gfsi_SSA = (gfsi_SSA.reset_index().replace({'Congo (Dem. Rep.)': 'Democratic Republic of the Congo', 
+'Tanzania': 'United Republic of Tanzania'}).set_index(['Area','Year'])
+)
+
+gfsi_SSA.join(FAO_SSA, how='right').to_csv("../data/data_SSA.csv")
