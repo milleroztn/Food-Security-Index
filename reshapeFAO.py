@@ -170,7 +170,8 @@ GT_r = pd.concat([GT_r,GT_SSAg])
 
 # Download and reshape Production variables (tonnes)
 QCL = pd.read_csv('../raw data/FAOSTAT_QCL.csv').pivot(index=['Area Code (FAO)','Area','Year'], columns='Item', values='Value')
-QCL = QCL.rename(columns={col: transform_colname(col,'prod') for col in QCL.columns}).reset_index()
+QCL['prod_food'] = QCL.sum(axis=1)
+QCL = QCL[['prod_food']].reset_index()
 QCL['Year'] = QCL['Year'].astype(str)
 QCL_r = QCL[QCL['Area Code (FAO)'].astype(str).isin(regions)].drop('Area Code (FAO)', axis=1).set_index(['Area','Year'])
 QCL_SSA = QCL[QCL['Area Code (FAO)'].astype(str).isin(SSAareas)].drop('Area Code (FAO)', axis=1).set_index(['Area','Year'])
@@ -217,7 +218,7 @@ FS_SSA = FS[FS['Area Code (FAO)'].isin(SSAareas)].drop('Area Code (FAO)', axis=1
 
 # Add Land Area and generate average rail density for SSA
 SSA_size = faostat.get_data_df('RL', pars = {'areas' : [SSAareas], 'elements': 5110, 'items': 6601}).pivot(index=['Area Code (FAO)','Area','Year'], columns='Item', values='Value').fillna(value=np.nan)
-FS_SSA = FS_SSA.join(SSA_size).reset_index()
+FS_SSA = FS_SSA.join(SSA_size, how="right").reset_index()
 FS_SSA['FS_Rail lines density (total route in km per 100 square km of land area)'] = FS_SSA['FS_Rail lines density (total route in km per 100 square km of land area)'].astype(np.float64)
 FS_SSA = FS_SSA.drop('Area Code (FAO)', axis=1).set_index(['Area','Year']).sort_index()
 FS_SSAg = (FS_SSA.groupby('Year').apply(weighted_average, 'FS_Rail lines density (total route in km per 100 square km of land area)', 'Land area')
@@ -235,12 +236,16 @@ FS_r['FS_Rail lines density (total route in km per 100 square km of land area)']
   .sort_index()
   )
 
+FS_r = FS_r.replace({'<2.5': '2.5', '<0.1': '0.1'})
+FS_SSA = FS_SSA.replace({'<0.1': '0.1'})
+
+
 del FS1, FS2, FS
 
 #which_areas(MK_SSA,FS_SSA)
 
-FAO_r = MK_r.join([CS_r, FDI_r, GT_r, QCL_r, TCL_r, FS_r], how='outer').sort_index()
-FAO_SSA = MK_SSA.join([CS_SSA, FDI_SSA, GT_SSA, QCL_SSA, TCL_SSA, FS_SSA], how='outer').sort_index()
+FAO_r = MK_r.join([CS_r, FDI_r, GT_r, QCL_r, TCL_r, FS_r], how='outer').apply(pd.to_numeric).sort_index()
+FAO_SSA = MK_SSA.join([CS_SSA, FDI_SSA, GT_SSA, QCL_SSA, TCL_SSA, FS_SSA], how='outer').apply(pd.to_numeric).sort_index()
 
 # View(which_years(FAO_r))
 # View(which_years(FAO_SSA))
