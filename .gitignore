@@ -2,3 +2,5 @@
 .Rhistory
 .RData
 .Ruserdata
+.Rproj
+__pycache__
