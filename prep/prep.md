@@ -8,7 +8,8 @@
 -   <a href="#merge-with-sub-borough-data" id="toc-merge-with-sub-borough-data">Merge With Sub-borough Data</a>
 -   <a href="#export" id="toc-export">Export</a> -->
 
-[TOC]
+* TOC
+{:toc}
 
 # Introduction
 Before combining the GFSI data with the FAO data, we must first compile each dataset separately and do some work to make them compatible. I break this down into 3 steps:
