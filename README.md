@@ -11,6 +11,6 @@ combine.py combines all the data into a single file (organized by year)
 
 All transformed data is stored in data folder
 
-![prep](http://milleroztn.github.io/Food-Security-Index/prep)
+[prep](http://milleroztn.github.io/Food-Security-Index/prep)
 
 
